@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2017-2023 Contributors to the OpenSTEF project <openstef@lfenergy.org>
+
+SPDX-License-Identifier: MPL-2.0
+-->
 # Security Policy
 
 We take the security of this project seriously and appreciate responsible disclosure of any vulnerabilities.
